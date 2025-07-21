@@ -4296,6 +4296,9 @@
   "/jd/price/:id": [
     "nczitzk"
   ],
+  "/jetbrains/youtrack/comments/:issueId": [
+    "NekoAria"
+  ],
   "/jewishmuseum/exhibitions": [
     "chazeon"
   ],
@@ -7127,6 +7130,9 @@
   ],
   "/sorrycc/": [
     "KarasuShin"
+  ],
+  "/sotwe/user/:id": [
+    "TonyRL"
   ],
   "/soundofhope/:channel/:id": [
     "Fatpandac"
